@@ -6,7 +6,7 @@ export default function Home() {
     <main className='px-6 mx-auto'>
       <p className='mt-12 mb-12 text-3xl text-center dark:text-white'>Hello and Welcome!
       <span className='whitespace-nowrap'>
-        I'm <span className='font-bold'>Clay</span>
+        I am <span className='font-bold'>Clay</span>
       </span>
       </p>
       <Posts />
